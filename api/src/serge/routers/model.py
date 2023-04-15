@@ -41,7 +41,7 @@ models_info = {
     "vicuna-7-uncensored": [
         "eachadea/ggml-vicuna-7b-1.1",
         "ggml-vicuna-7b-1.0-uncensored-q4_0.bin",
-        8.13E9
+        4.20E9
     ]
     }
 
