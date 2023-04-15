@@ -37,12 +37,12 @@ models_info = {
         "nsarrazin/alpaca",
         "gpt4all/gpt4all.bin",
         4.20E9
-    ],
+        ],
     "vicuna-7-uncensored": [
         "eachadea/ggml-vicuna-7b-1.1",
         "ggml-vicuna-7b-1.0-uncensored-q4_0.bin",
         4.20E9
-    ],
+        ],
     "vicuna-7b-1.1: [
         "eachadea/ggml-vicuna-7b-1.1",
         "ggml-vicuna-7b-1.1-q4_0.bin",
