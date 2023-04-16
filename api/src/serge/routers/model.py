@@ -47,6 +47,11 @@ models_info = {
         "eachadea/ggml-vicuna-7b-1.1",
         "ggml-vicuna-7b-1.1-q4_0.bin",
         4.20E9
+    ],
+    "ggml-vicuna-13b-1.1": [
+        "eachadea/ggml-vicuna-13b-1.1",
+        "ggml-vicuna-13b-1.1-q4_0.bin",
+        8.13E9
     ]
     }
 
