@@ -52,7 +52,12 @@ models_info = {
         "eachadea/ggml-vicuna-13b-1.1",
         "ggml-vicuna-13b-1.1-q4_0.bin",
         8.13E9
-    ]
+    ],
+    "vicuna-AlekseyKorshuk-7B-GPTQ-4bit-128g-GGML": [
+        "TheBloke/vicuna-AlekseyKorshuk-7B-GPTQ-4bit-128g-GGML",
+        "vicuna-AlekseyKorshuk-7B-GPTQ-4bit-128g.GGML.bin",
+        5.38e9
+    ]    
     }
 
 WEIGHTS = "/usr/src/app/weights/"
